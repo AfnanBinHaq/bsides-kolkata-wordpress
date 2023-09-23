@@ -1,0 +1,15 @@
+# Ignore WordPress core files
+/wp-config.php
+/wp-content/
+/wp-includes/
+/wp-admin/
+
+# Ignore plugins and themes
+/wp-content/plugins/
+/wp-content/themes/
+
+# Ignore cache and temporary files
+/wp-content/cache/
+/wp-content/upgrade/
+/.htaccess
+/wp-content/backup-db/
